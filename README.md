@@ -5,6 +5,6 @@ Projeto para exemplificar as propriedades das fontes utilizando HTML e CSS.
 
 [<img src="./resultado.jpg" alt="propriedades das fontes usando HTML e CSS">](https://priscila199.github.io/propriedades-fontes/)
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 - HTML
 - CSS
